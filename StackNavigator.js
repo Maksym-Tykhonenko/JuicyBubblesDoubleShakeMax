@@ -333,7 +333,7 @@ const AppNavigator = () => {
     const checkUrl = `${INITIAL_URL}${URL_IDENTIFAIRE}`;
     //console.log('checkUrl==========+>', checkUrl);
 
-    const targetData = new Date('2025-11-07T08:08:00'); //дата з якої поч працювати webView
+    const targetData = new Date('2025-11-29T08:08:00'); //дата з якої поч працювати webView
     const currentData = new Date(); //текущая дата
 
     if (currentData <= targetData) {
@@ -503,12 +503,12 @@ const AppNavigator = () => {
           >
             <Image
               style={{ width: screenWidth, height: '100%' }}
-              source={require('./JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeImages/1.png')}
+              source={require('./JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeImages/11.png')}
               resizeMode="cover"
             />
             <Image
               style={{ width: screenWidth, height: '100%' }}
-              source={require('./JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeImages/1.png')}
+              source={require('./JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeImages/22.png')}
               resizeMode="cover"
             />
           </Animated.View>
