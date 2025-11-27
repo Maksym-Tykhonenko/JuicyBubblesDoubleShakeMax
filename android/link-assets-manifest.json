@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Manrope-Regular.ttf",
+      "sha1": "3f36e4904a42d23273ac346047c1b6bcf067ccfc"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Manrope-SemiBold.ttf",
+      "sha1": "f7a023cd6c102b2ffa8bf729579552445970d62d"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Poppins-Italic.ttf",
+      "sha1": "e2bfcd56016c3c915221ef1c5fc1a17b0776eb91"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Poppins-MediumItalic.ttf",
+      "sha1": "b592c62fdf88c40cfd0f031bba6423b1d4430472"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/SF-Pro-Display-Medium.otf",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/SF-Pro-Display-Regular.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "JuicyBubblesDoubleShakeSrc/JuicyBubblesDoubleShakeAssets/JuicyBubblesDoubleShakeFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
